@@ -1,1 +1,1 @@
-# flask_blog
+A blog allowing a user to create, edit and delete posts. Using the Flask framework and SQLite3.
